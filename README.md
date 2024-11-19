@@ -7,5 +7,4 @@ Then I have been using animations to make my character move like W= Move forward
 
 
 <p>Gameplay Preview</p><br>
-[[ This project integrates machine learning with Android application development to create an emotion detection app.](https://horizoncampus.sharepoint.com/:v:/s/Intake9/EZkBcAshEHxGqUNG00BainkBfSsBqaVJLHFu6iz-Q6wHSA?e=d0h0r5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-](https://drive.google.com/file/d/1VUTNBO8Nk1BaR6ZWjqSuZE7kVtg1_rf9/view?usp=sharing)
+https://drive.google.com/file/d/1VUTNBO8Nk1BaR6ZWjqSuZE7kVtg1_rf9/view?usp=sharing
